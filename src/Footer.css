@@ -1,0 +1,31 @@
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+    background-color: #182334;
+    color: #fff;
+   
+  }
+  
+  footer h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+  
+  footer li {
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: #fff;
+    cursor: pointer;
+    margin: 1rem 0;
+  }
+  
+  footer li:hover {
+    color: var(--primary-color);
+  }
